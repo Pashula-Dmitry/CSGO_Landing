@@ -1,2 +1,2 @@
 # CSGO_Landing
-Landing
+Landing. Light version with adaptive design
